@@ -1,3 +1,9 @@
+"Esse Joke Vírus pode ser um pouco ofensivo quanto à máquina, por isso, use com responsabilidade"
+"Com o comando "shutdown" e essa sopa de letrinhas logo após, seu computador basicamente será forçado a desligar após o contador chegar a 0 e exibirá uma mensagem."
+"O comando "Taskkill" força o encerramento do processo especificado, nesse caso, Google Chrome e Opera."
+"O "Start" irá iniciar um link do youtube."
+"E agora começa a mágica, essa grande quantidade de "start" vai imitar o efeito de PopUp, recurso muito utilizado em vírus nesse estilo."
+
 Shutdown -s -f -t: 30 -c "Your PC is Infected, try reboot to repair machine."
 
 
