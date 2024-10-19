@@ -1,4 +1,4 @@
-Esse Joke Vírus pode ser um pouco ofensivo quanto à máquina, por isso, use com responsabilidade"
+"Esse Joke Vírus pode ser um pouco ofensivo quanto à máquina, por isso, use com responsabilidade"
 "Com o comando "shutdown" e essa sopa de letrinhas logo após, seu computador basicamente será forçado a desligar após o contador chegar a 0 e exibirá uma mensagem."
 "O comando "Taskkill" força o encerramento do processo especificado, nesse caso, Google Chrome e Opera."
 "O "Start" irá iniciar um link do youtube."
