@@ -11,5 +11,8 @@
 </div>
 
 # 2.CHIPSET
-É o componente que controla o ***Tráfego de Dados e de Energia*** na Placa Mãe através de “trilhas” de cobre desenhadas na placa. Carrega o nome da Placa Mãe.
+É o componente que controla o ***Tráfego de Dados e de Energia*** na Placa Mãe através de “trilhas” de cobre desenhadas na placa. Carrega o nome da Placa Mãe. 
+  <div align="center"> 
+  
+  </div>
 
