@@ -4,7 +4,6 @@
   
   ![PWM](https://github.com/user-attachments/assets/34ca5ad6-bd1d-4b2e-8b81-237f5ade90df)
 </div>
-
 <div align="center">
   
   ## [Aula Peperaio](https://youtu.be/TIxiripiic8?si=WCtkFEHIHAym2eUT)
@@ -12,7 +11,20 @@
 
 # 2.CHIPSET
 É o componente que controla o ***Tráfego de Dados e de Energia*** na Placa Mãe através de “trilhas” de cobre desenhadas na placa. Carrega o nome da Placa Mãe. 
-  <div align="center"> 
+<div align="center"> 
+    
+  ![IMAGEM-4-2](https://github.com/user-attachments/assets/699d6a12-1840-4b7d-9639-f2f195071d4b)
+</div>
+<div align="center">
   
-  </div>
+  ## [Aula Gabriel Tutoriais](https://youtu.be/J0wAiRjKvvs?si=GnSI4Y2BT2HzVLGl)
+</div>
 
+# 3.SIGLAS
+    INTEL
+    
+    H - Placas de entrada, sem suporte para Overclocking.
+    
+    B - Placas Intermediárias, normalmente as custo-benefícios.
+    
+    Z - Placas Topo de Linha, com suporte para Overclocking, chipset high-end e com mais recursos para upgrade.
