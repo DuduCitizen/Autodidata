@@ -21,10 +21,13 @@
 </div>
 
 # 3.SIGLAS
-    INTEL
+
+INTEL
+
+H - Placas de entrada, sem suporte para Overclocking.
     
-    H - Placas de entrada, sem suporte para Overclocking.
+B - Placas Intermediárias, normalmente as custo-benefícios.
     
-    B - Placas Intermediárias, normalmente as custo-benefícios.
-    
-    Z - Placas Topo de Linha, com suporte para Overclocking, chipset high-end e com mais recursos para upgrade.
+Z - Placas Topo de Linha, com suporte para Overclocking, chipset high-end e com mais recursos para upgrade.
+![intel](https://github.com/user-attachments/assets/614799f9-4737-4865-b222-cebaaee5ff4f)
+
