@@ -116,6 +116,10 @@ BIOS (Basic Input/Output System) é um software fundamental embutido na placa-m�
 
 
 ***Importante: Alterar configurações da BIOS sem o conhecimento adequado pode causar problemas no funcionamento do computador.***
+#
+
+# 7. COMPONENTES
+![B570](https://github.com/user-attachments/assets/0c100f52-8cb9-4c55-93b0-d3093f9d10cc)
 
 
 
