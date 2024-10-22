@@ -17,5 +17,6 @@ O termo "time da memória RAM" geralmente se refere à ***latência e à velocid
       - Row Active Time (tRAS): O tempo total que uma linha de memória permanece ativa para uma operação.
   
 <div align="center">
-### [Aula sobre Timing] (https://www.youtube.com/watch?v=wmwTXlfrkxs)
+  
+  ### [Aula sobre Timing](https://youtu.be/wmwTXlfrkxs?si=7sbOQn6wBxSHUIMZ)
 </div>
