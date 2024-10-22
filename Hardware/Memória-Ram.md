@@ -15,4 +15,7 @@ O termo "time da memória RAM" geralmente se refere à ***latência e à velocid
       - RAS to CAS Delay (tRCD): O tempo entre a ativação de uma linha de memória e a ativação de uma coluna.
       - Row Precharge Time (tRP): O tempo necessário para desativar uma linha de memória antes de ativar outra.
       - Row Active Time (tRAS): O tempo total que uma linha de memória permanece ativa para uma operação.
-
+  
+<div align="center">
+### [Aula sobre Timing] (https://www.youtube.com/watch?v=wmwTXlfrkxs)
+</div>
