@@ -10,11 +10,14 @@ Uma **fonte com PFC ativo** (Power Factor Correction ou Correção de Fator de P
 
 ---
 
-<aside>
-💡
 
-Resumo: Fonte com PFC Ativo reduz o desperdício de energia, diminuindo consequentemente o calor produzido pela fonte. Quanto mais próximo do número 1, significa que a fonte é mais eficiente.
+    💡
+    Resumo: Fonte com PFC Ativo reduz o desperdício de energia, diminuindo consequentemente o calor produzido pela fonte. Quanto mais próximo do número 1, significa que a fonte é mais eficiente.
 
-</aside>
 
+---
+
+<h1 align="center">
+  
 [O que é PFC Ativo?](https://www.youtube.com/watch?v=Stmb_-fkRb0&t=1s)
+</h1>
