@@ -17,3 +17,4 @@ Resumo: Fonte com PFC Ativo reduz o desperdício de energia, diminuindo conseque
 
 </aside>
 
+[O que é PFC Ativo?](https://www.youtube.com/watch?v=Stmb_-fkRb0&t=1s)
